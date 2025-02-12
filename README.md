@@ -50,44 +50,4 @@ Achieved high accuracy in predicting breast cancer cases.
 
 Identified key factors influencing diagnosis.
 
-🔧 How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/Didula21/breast_cancer_prediction_using_machine_learning.git
-
-Navigate to the project directory:
-
-cd breast_cancer_prediction_using_machine_learning
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the Jupyter Notebook:
-
-jupyter notebook
-
-Open and execute breast_cancer_prediction.ipynb
-
-📌 Future Improvements
-
-Implement deep learning models (e.g., Neural Networks)
-
-Deploy the model as a web application
-
-Enhance data visualization techniques
-
-🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🔗 Connect with Me
-
-GitHub: Didula21
-
-LinkedIn: Your LinkedIn Profile
